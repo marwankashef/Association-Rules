@@ -1,1 +1,1 @@
-# Association-Rules
+# Association Rules
